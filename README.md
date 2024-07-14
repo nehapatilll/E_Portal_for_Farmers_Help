@@ -1,4 +1,4 @@
-# E_Portal_for_Farmers_Help
+# E-Portal for Farmers Help 🌱
 E-Farming is a web application designed to empower village farmers by providing a platform to sell their products directly to consumers and learn modern farming practices. Farmers can list their produce, manage orders and receive payments securely. This E-commerce platform eliminates middlemen, allowing farmers to earn better profits.  
 
 The application utilizes a dynamic website built with a MySQL database and a PHP framework for efficient operation.
@@ -17,7 +17,7 @@ The application utilizes a dynamic website built with a MySQL database and a PHP
 ![Screenshot (69)](https://github.com/user-attachments/assets/f5c4f521-87d7-42c0-8a67-796638c7ca24)
 ![Screenshot (70)](https://github.com/user-attachments/assets/c9e1343e-5e2c-4c87-9df1-bbe5878250ee)
 
-# Thanks For Visiting!!❣️
+# Thanks For Visiting!!🙏🏻
 
 
 
