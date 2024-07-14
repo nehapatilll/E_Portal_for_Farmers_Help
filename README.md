@@ -4,7 +4,7 @@ E-Farming is a web application designed to empower village farmers by providing 
 The application utilizes a dynamic website built with a MySQL database and a PHP framework for efficient operation.
 
 #  Technologies🛠️
-✔️ Front-end: HTML, CSS, JS
+✔️ Front-end: HTML, CSS, JS.
 ✔️ Back-end: Node.js, PHP
 ✔️ Version Control: Git, GitHub
 ✔️ Detabase: MySQL
